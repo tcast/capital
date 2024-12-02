@@ -1,10 +1,5 @@
 <p align="center">
   <p align="center">
-    <a href="https://bigcapital.app" target="_blank">
-      <img src="https://raw.githubusercontent.com/abouolia/blog/main/public/bigcapital.svg" alt="Bigcapital" width="280" height="75">
-    </a>
-  </p>
-  <p align="center">
     Simple, smart online accounting software for small and medium businesses.
   </p>
 
